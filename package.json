@@ -1,0 +1,12 @@
+{
+  "name": "tipster-fixture-npm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Throwaway fixture for tipster's live remediation E2E (intentionally pins a vulnerable lodash).",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
